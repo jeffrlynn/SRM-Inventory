@@ -1,39 +1,45 @@
 # SRM-Inventory
 Collection of Excel spreadsheets, VBA code, and scripts to help track inventory at my job
 
-__FEATURES__
+### FEATURES
 
-[x] Script to open and update spreadsheet daily
-[ ] Script to run email modules periodically
+##### GENERAL
 
-EMAIL
-[x] Form to submit emails
-[x] Save emails to a file
-[ ] Send email to list of people
-	[ ] Include certain range
-		[ ] Write lenMessage function 
-	[ ] when SRM or VSL changes state
-		[ ] To Yellow
-		[ ] To red
+* [x] Script to open and update spreadsheet daily
+* [ ] Script to run email modules periodically
+
+---
+##### EMAIL
+
+* [x] Form to submit emails
+* [x] Save emails to a file
+* [ ] Send email to list of people
+	* [ ] Include certain range
+		* [ ] Write lenMessage function 
+	* [ ] when SRM or VSL changes state
+		* [ ] To Yellow
+		* [ ] To red
   
-------------------------------------------------------------
-[ ] Request GMIS
-[ ] List of SRM/VSL needed
-[ ] Add standard entry
-[x] Clean up table
-	[x] convert from conditional format to code
-	[x] Delete columns 1 - 3
-		[x] Edit code to reflect correct columns
+---
+##### OTHER FORMS
 
--------------------------------------------------------------
-COA GENERATION
+* [ ] Request GMIS
+* [ ] List of SRM/VSL needed
+* [ ] Add standard entry
+* [x] Clean up table
+	* [x] convert from conditional format to code
+	* [x] Delete columns 1 - 3
+		* [x] Edit code to reflect correct columns
 
-[ ] Dropdown list to select template
-[ ] Select banner from list
+---
+##### COA GENERATION
 
------- or --------
+* [ ] Dropdown list to select template
+* [ ] Select banner from list
 
-[ ] Form with fields that will load a partially filled template
+-- or --
 
---------------------------------------------------------------
-LABEL GENERATION
+* [ ] Form with fields that will load a partially filled template
+
+---
+##### LABEL GENERATION
